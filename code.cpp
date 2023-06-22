@@ -4,6 +4,7 @@ int main()
 {
     ios::sync_with_stdio(0); 
     cin.tie(0);
-    int t=1;
-    cout<<
+    for(int i=0;i<4;i++){
+        cout<<i<<endl;
+    }
 }
